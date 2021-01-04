@@ -90,9 +90,10 @@ p {
   text-align: center;
 }
 .client-container p {
-  margin: 0 400px 50px 400px;
+  margin: 0 30% 50px 30%;
 }
 footer p {
+  margin-top: 40px;
   text-align: center;
 }
 #mail {
@@ -100,6 +101,7 @@ footer p {
   border-radius: 5px;
   padding: 30px 50px;
   color: white;
+  text-align: center;
 }
 #mail a {
   text-decoration: none;
